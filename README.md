@@ -2,7 +2,7 @@
 
 ## Summary
 
-shinylist is an [`htmlwidget`](http://htmlwidgets.org) for generating HTML lists from R output. The package includes a `shinylist()` function that uses custom JavaScript to parse a vector and output each element as a list item. This is particularly of use in the context of [Shiny](http://shiny.rstudio.com/) app development. The `renderList()` and `listOutput()` can be used respectively in the `server` and `ui` Shiny components.  
+shinylist is an [htmlwidget](http://htmlwidgets.org) for generating HTML lists from R output. The package includes a `shinylist()` function that uses custom JavaScript to parse a vector and output each element as a list item. This is particularly of use in the context of [Shiny](http://shiny.rstudio.com/) app development. The `renderList()` and `listOutput()` can be used respectively in the `server` and `ui` Shiny components.  
 
 ## Installation
 ```
