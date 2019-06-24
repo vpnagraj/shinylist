@@ -3,8 +3,8 @@ Title: HTML lists from R input
 Version: 0.1
 Date: 2016-05-24
 Author: c(person("VP", "Nagraj", role = c("aut", "cre"), email =
-    "vpnagraj@virginia.edu"))
-Maintainer: VP Nagraj <vpnagraj@virginia.edut>
+    "nagraj@nagraj.net"))
+Maintainer: VP Nagraj <nagraj@nagraj.net>
 Description: Create HTML lists parsed from a vector of elements in R.
 License: GPL-3
 LazyData: TRUE
